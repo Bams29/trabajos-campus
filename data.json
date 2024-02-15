@@ -1,0 +1,17 @@
+{
+    "persona": {
+        "nombre": "la wea",
+        "edad": "20",
+        "pais": "chile"
+    },
+    "nueva_persona": {
+        "nombre": "pepe",
+        "edad": "23",
+        "pais": "peru"
+    },
+    "otra_persona": {
+        "nombre": "pedrita",
+        "edad": "22",
+        "pais": "argentina"
+    }
+}
